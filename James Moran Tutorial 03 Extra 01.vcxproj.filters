@@ -22,4 +22,9 @@
   <ItemGroup>
     <FxCompile Include="shaders.hlsl" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ConstantValues.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
