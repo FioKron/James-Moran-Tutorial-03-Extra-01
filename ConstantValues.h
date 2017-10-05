@@ -25,8 +25,6 @@ const float G_DEFAULT_CLEAR_COLOUR[G_CLEAR_COLOUR_ARRAY_SIZE] = { 1.0f, 1.0f, 1.
 
 // Numbers (not from the numpad):
 
-const int VK_T = 0x54;
-const int VK_Y = 0x59;
 const int VK_0 = 0x30;
 const int VK_1 = 0x31;
 const int VK_2 = 0x32;
